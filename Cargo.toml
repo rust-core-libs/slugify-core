@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Fast, Unicode-aware slug generation library with multi-language bindings"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/username/slugify-core"
+repository = "https://github.com/rust-core-libs/slugify-core"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

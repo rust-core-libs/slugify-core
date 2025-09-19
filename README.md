@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/slugify-core)](https://crates.io/crates/slugify-core)
 [![Documentation](https://docs.rs/slugify-core/badge.svg)](https://docs.rs/slugify-core)
 [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE)
-[![Build Status](https://github.com/username/slugify-core/workflows/CI/badge.svg)](https://github.com/username/slugify-core/actions)
+[![Build Status](https://github.com/rust-core-libs/slugify-core/workflows/CI/badge.svg)](https://github.com/rust-core-libs/slugify-core/actions)
 
 A high-performance, Unicode-aware slug generation library written in Rust with multi-language bindings support. Designed for creating URL-friendly strings from arbitrary text input with extensive customization options.
 
@@ -202,7 +202,7 @@ All C exports are designed with safety in mind:
 ### Development Build
 
 ```bash
-git clone https://github.com/username/slugify-core.git
+git clone https://github.com/rust-core-libs/slugify-core.git
 cd slugify-core
 cargo build
 ```
