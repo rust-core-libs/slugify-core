@@ -269,7 +269,7 @@ at your option.
 
 ## Changelog
 
-### v0.1.0 (2024-01-XX)
+### v0.1.0 (2025-09-19)
 
 - Initial release
 - Core slugification functionality
